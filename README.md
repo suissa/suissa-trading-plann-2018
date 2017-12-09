@@ -51,3 +51,14 @@ da transação e não em cima do TOTAL investido
 # Exchanges
 
 Muito provavelmente só operarei, nesse início, na Binance (IOTA) e Bittrex(trading).
+
+# Como?
+
+Essa pergunta é deveras importante pois eu já iniciei um sisteminha que irá buscar a<br>
+cotação de qualquer moeda em mais de 10/15 exchanges gringas. Com isso nós saberemos<br>
+a diferença de valores para comprar e vender em qualquer exchange que possua aquela moeda.
+
+Como também guardarei um histórico de TODAS nossas operações para que você possa ter um<br>
+relatório diário/semanal/mensal mostrando visualmente onde você ganhou ou perdeu.
+
+
