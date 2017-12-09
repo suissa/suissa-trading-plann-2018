@@ -1,4 +1,4 @@
-# suissa-trading-plann-2018
+# Suissa trading plann - 2018
 Projeto para quem quer entrar de vez nesse mundo das criptomoedas com mais facilidade.
 
 - custo inicial: 0
@@ -13,7 +13,16 @@ de valor e SEMPRE ter amigos e alunos me perguntando o que fazer nessa área.
 
 O que eu já propus para 2 alunos meus que entraram agora nessa e que por sinal<br> 
 também dei 1 aula VIP sobre o assunto para cada, eu me sinto na responsabilidade<br> 
-de levar eles por um caminho MENOS tortuoso pelo qual já passei
+de levar eles por um caminho MENOS tortuoso pelo qual já passei.
+
+A base dessa ideia é que você simplesmente faça as mesmas operações que EU farei.<br>
+Entenda que não serei um consultor, eu estarei realmente FAZENDO tudo que falarei!<br>
+<br>
+
+Ou seja, se der merda eu também me fodo!
+<br>
+
+Prefiro dizer o que eu farei do que apenas palpitar a toa com o dinheiro dos outros!
 
 
 # O Plano
