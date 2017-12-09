@@ -61,4 +61,8 @@ a diferença de valores para comprar e vender em qualquer exchange que possua aq
 Como também guardarei um histórico de TODAS nossas operações para que você possa ter um<br>
 relatório diário/semanal/mensal mostrando visualmente onde você ganhou ou perdeu.
 
+# Day Trade
+
+Até o Carnaval eu já quero estar comum BOT treinado para render de 5% a 10% AO DIA com Day Trade.
+
 
