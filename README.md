@@ -4,6 +4,14 @@ Projeto para quem quer entrar de vez nesse mundo das criptomoedas com mais facil
 
 - Custo inicial: 0
 
+Se você chegou até aqui é porque te conheço e faremos um acompanhamento direto.
+
+Caso deseje entrar nesse projeto [click aqui](https://github.com/suissa/suissa-trading-plann-2018/issues) e coloque os seguintes dados:
+
+- título: Seu nome completo
+- descrição: EU ACEITO.
+
+
 # Por quê?
 
 Estou criando esse plano/projeto pois vi o que tinha investido aumentar quase 4x<br> 
