@@ -2,7 +2,7 @@
 
 Projeto para quem quer entrar de vez nesse mundo das criptomoedas com mais facilidade.
 
-- custo inicial: 0
+- Custo inicial: 0
 
 # Por quê?
 
@@ -28,7 +28,7 @@ Prefiro dizer o que eu farei do que apenas palpitar a toa com o dinheiro dos out
 
 # O Plano
 
-Como eu quero maximazar o nosso lucro mas com segurança, nesse início eu defini o seguinte:
+Como eu quero maximizar o nosso lucro mas com segurança, nesse início eu defini o seguinte:
 
 - 70%: BTC
 - 20%: IOTA
@@ -38,7 +38,7 @@ Como eu quero maximazar o nosso lucro mas com segurança, nesse início eu defin
 # Meu Retorno
 
 Entenda que minha porcentagem será calculada APENAS em cima do lucro bruto<br> 
-da transação e não em cima do TOTAL investido
+da transação e não em cima do TOTAL investido.
 
 
 - 5%: acima de 50%
@@ -59,7 +59,7 @@ Essa pergunta é deveras importante pois eu já iniciei um sisteminha que irá b
 cotação de qualquer moeda em mais de 10/15 exchanges gringas. Com isso nós saberemos<br>
 a diferença de valores para comprar e vender em qualquer exchange que possua aquela moeda.
 
-Como também guardarei um histórico de TODAS nossas operações para que você possa ter um<br>
+Como também guardarei um histórico de TODAS as nossas operações para que você possa ter um<br>
 relatório diário/semanal/mensal mostrando visualmente onde você ganhou ou perdeu.
 
 # Day Trade
