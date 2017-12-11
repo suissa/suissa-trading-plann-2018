@@ -2,6 +2,8 @@
 
 Projeto para quem quer entrar de vez nesse mundo das criptomoedas com mais facilidade.
 
+**Pararei de dar dicas para quem me pede em PVT e só farei isso para quem está nesse projeto!**
+
 - Custo inicial: 0
 
 Se você chegou até aqui é porque te conheço e faremos um acompanhamento direto.
