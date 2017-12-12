@@ -8,10 +8,10 @@ O plano para nosso primeiro mês será:
 - 30%: IOTA - Binance
 - 20%: Swing Trade - Bittrex
 
-*\*essas porentagens podem mudar a qualquer momento!!!!*
+*ps: essas porentagens podem mudar a qualquer momento!!!!*
 
 <br>
-####Entenda que aquela % é referente em cima de cada um deses items
+#### Entenda que aquela % é referente em cima de cada um deses items
 
 <br>
 <br>
