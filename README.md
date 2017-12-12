@@ -85,6 +85,14 @@ relatório diário/semanal/mensal mostrando visualmente onde você ganhou ou per
 Criei um chat **FECHADO** no Telegram e Facebook comos participantes para eu sempre ter<br>
 um contato direto e podermos operar com maior rapidez.
 
+# Prazo
+
+Esse plano está iniciando agora em Dezembro, logo colcoarei o dia para validarmos os valores<br>
+para: 15 de Janeiro de 2018.
+
+**E seguir sempre esse padrão do dia 15 do próximo mês.**
+
+
 # Day Trade
 
 Até o Carnaval eu já quero estar comum BOT treinado para render de 5% a 10% AO DIA com Day Trade.
