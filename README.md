@@ -2,16 +2,35 @@
 
 Projeto para quem quer entrar de vez nesse mundo das criptomoedas com mais facilidade.
 
+<br>
+
 **Pararei de dar dicas para quem me pede em PVT e só farei isso para quem está nesse projeto!**
 
-- Custo inicial: 0
+<br>
+
+
+
+## AVISO
+
+### Eu não VOU PEGAR O DINHEIRO DE NINGUÉM!!! VC QUE ME DOARÁ DEPOIS DE LUCRAR!!!
+
+<br>
 
 Se você chegou até aqui é porque te conheço e faremos um acompanhamento direto.
+
+<br>
 
 Caso deseje entrar nesse projeto [click aqui](https://github.com/suissa/suissa-trading-plann-2018/issues) e coloque os seguintes dados:
 
 - título: Seu nome completo
 - descrição: EU ACEITO.
+
+
+<br>
+
+**No tem NENHUM CUSTO inicial, mas indicoque você comece investindo pelo menos R$1000.**
+
+<br>
 
 
 # Por quê?
