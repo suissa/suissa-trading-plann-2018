@@ -8,7 +8,13 @@ Projeto para quem quer entrar de vez nesse mundo das criptomoedas com mais facil
 
 <br>
 
+<br>
 
+> **Se você já aceitou [CLICK AQUI: Aceitei e agora?](https://github.com/suissa/suissa-trading-plann-2018/blob/master/aceitei-e-agora.md)**
+
+
+
+<br>
 
 ## AVISO
 
