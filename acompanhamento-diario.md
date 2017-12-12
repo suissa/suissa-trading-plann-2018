@@ -34,14 +34,12 @@ Stellar Lumens (XLM) $0.146400 USD (0.13%) <br>
 **Ethereum (ETH) $632.36 USD (28.05%)** <br>
 **Waves (WAVES) $15.09 USD (35.10%)**
 <br>
-
+<hr>
+Cardano (ADA) $0.137118 USD (15.12%)  <br>
+NEO (NEO) $40.33 USD (13.31%) <br>
+Decred (DCR) $65.74 USD (12.14%) <br>
+MANA $0.084176 USD (11.93%) <br>
+Stellar Lumens (XLM) $0.158494 USD (11.12%)  <br>
 <hr>
 IOTA (MIOTA) $4.61 USD (6.96%)<br> 
-<hr>
-MANA $0.084176 USD (11.93%) <br>
-NEO (NEO) $40.33 USD (13.31%) <br>
 Bitcoin (BTC) $17,535.80 USD (2.85%) <br>
-Cardano (ADA) $0.137118 USD (15.12%)  <br>
-Decred (DCR) $65.74 USD (12.14%) <br>
-<hr>
-Stellar Lumens (XLM) $0.158494 USD (11.12%)  <br>
