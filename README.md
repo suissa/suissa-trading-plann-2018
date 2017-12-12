@@ -63,11 +63,11 @@ Prefiro dizer o que eu farei do que apenas palpitar a toa com o dinheiro dos out
 
 # O Plano
 
-Como eu quero maximizar o nosso lucro mas com segurança, nesse início eu defini o seguinte:
+O plano para nosso primeiro mês será:
 
-- 70%: BTC
-- 20%: IOTA
-- 10%: trading (swing trade)
+50%: BTC - qualquer uma
+30%: IOTA - Binance
+20%: Swing Trade - Bittrex
 
 
 # Meu Retorno
@@ -112,7 +112,7 @@ um contato direto e podermos operar com maior rapidez.
 
 # Prazo
 
-Esse plano está iniciando agora em Dezembro, logo colcoarei o dia para validarmos os valores<br>
+Esse plano está iniciando agora em Dezembro, logo colocarei o dia para validarmos os valores<br>
 para: 15 de Janeiro de 2018.
 
 **E seguir sempre esse padrão do dia 15 do próximo mês.**
