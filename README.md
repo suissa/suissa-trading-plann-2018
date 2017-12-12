@@ -20,6 +20,8 @@ Projeto para quem quer entrar de vez nesse mundo das criptomoedas com mais facil
 
 ### Eu não VOU PEGAR O DINHEIRO DE NINGUÉM!!! VC QUE ME DOARÁ DEPOIS DE LUCRAR!!!
 
+## SE VOCÊ ACEITAR SERÁ RESPONSÁVEL POR TODO O SEU RISCO ASSIM EU SOU COM O MEU!!!
+
 <br>
 
 Se você chegou até aqui é porque te conheço e faremos um acompanhamento direto.
