@@ -63,6 +63,13 @@ da transação e não em cima do TOTAL investido.
 
 Muito provavelmente só operarei, nesse início, na Binance (IOTA) e Bittrex(trading).
 
+Por favor se você ainda no tem conta em exchange brasileira crie em:
+
+- bitcointrade.com.br
+- walltime.info
+
+Valide sua conta, envie dinheiro para lá e **compre tudo em BTC** para começarmos esse projeto.
+
 # Como?
 
 Essa pergunta é deveras importante pois eu já iniciei um sisteminha que irá buscar a<br>
@@ -71,6 +78,12 @@ a diferença de valores para comprar e vender em qualquer exchange que possua aq
 
 Como também guardarei um histórico de TODAS as nossas operações para que você possa ter um<br>
 relatório diário/semanal/mensal mostrando visualmente onde você ganhou ou perdeu.
+
+
+# Contato diário
+
+Criei um chat **FECHADO** no Telegram e Facebook comos participantes para eu sempre ter<br>
+um contato direto e podermos operar com maior rapidez.
 
 # Day Trade
 
