@@ -4,6 +4,9 @@ Vou colocando aqui o acompnhamento diário das cotações até meu app estiver p
 
 [https://github.com/suissa/altcoins-daily-summary](https://github.com/suissa/altcoins-daily-summary)
 
+
+<hr>
+
 ## 12 de Novembro de 2017
 
 
@@ -24,9 +27,11 @@ Cardano (ADA) $0.117635 USD (1.43%) <br>
 Stellar Lumens (XLM) $0.146400 USD (0.13%) <br>
 
 
+<hr>
+
 ### Jantar (21:30)
 
-**Ethereum (ETH) $632.36 USD (28.05%) **<br>
+**Ethereum (ETH) $632.36 USD (28.05%)** <br>
 **Waves (WAVES) $15.09 USD (35.10%)**
 <br>
 
