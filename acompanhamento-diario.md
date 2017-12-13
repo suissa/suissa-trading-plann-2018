@@ -50,6 +50,7 @@ Bitcoin (BTC) $17,535.80 USD (2.85%) <br>
 
 <br>
 <br>
+
 ## 13 de Novembro de 2017
 
 ### Jantar (21:05)
@@ -59,17 +60,22 @@ Waves (WAVES) $13.92 USD (-6.82%)<br>
 Bitcoin (BTC) $16,548.10 USD (-5.68%)  <br>
 Stellar Lumens (XLM) $0.150421 USD (-4.28%) <br>
 Litecoin (LTC) $306.31 USD (-4.06%) 
+
 <br>
 <hr>
 <br>
+
 **Decentraland (MANA) $0.122595 USD (41.86%)**
+
 <br>
 <hr>
 <br>
+
 NEO (NEO) $44.74 USD (11.26%)<br>
 Ethereum (ETH) $693.00 USD (10.41%)<br>
 Decred (DCR) $71.87 USD (8.84%)<br>
 Cardano (ADA) $0.136689 USD (2.62%)<br>
+
 <br>
 
 
