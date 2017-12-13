@@ -4,9 +4,9 @@
 
 O plano para nosso primeiro mês será:
 
-- 50%: BTC - qualquer uma
-- 30%: IOTA - Binance
-- 20%: Swing Trade - Bittrex
+- 60%: BTC - qualquer uma
+- 10%: IOTA - Binance
+- 30%: Swing Trade - Bittrex
 
 *ps: essas porcentagens podem mudar a qualquer momento!!!!*
 
