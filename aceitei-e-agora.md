@@ -20,7 +20,7 @@ O plano para nosso primeiro mês será:
 
 ## Passo 1 - Comprar BTC
 
-Para isso você terá que criar uma conta na [bitcointrade](bitcointrade.com.br) e na walltime.info para depois<br> 
+Para isso você terá que criar uma conta na [bitcointrade](bitcointrade.com.br) e na [walltime.info](walltime.info) para depois<br> 
 validar sua conta e enviar o dinheiro para qa que voc preferir/tiver o BTC mais barato.
 
 Depois de comprado TUDO em BTC voc começará a por nosso plano em ação.
