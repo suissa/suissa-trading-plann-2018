@@ -36,7 +36,7 @@ Caso deseje entrar nesse projeto [click aqui](https://github.com/suissa/suissa-t
 
 <br>
 
-**No tem NENHUM CUSTO inicial, mas indicoque você comece investindo pelo menos R$1000.**
+**Não tem NENHUM CUSTO inicial, mas indico que você comece investindo pelo menos R$1000.**
 
 <br>
 
