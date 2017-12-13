@@ -2,7 +2,7 @@
 
 Vou colocando aqui o acompnhamento diário das cotações até meu app estiver pronto para usarmos.
 
-[https://github.com/suissa/altcoins-daily-summary](https://github.com/suissa/altcoins-daily-summary)
+Esses valores vêm do site: [coinmarketcap.com](https://coinmarketcap.com/) .
 
 
 <hr>
