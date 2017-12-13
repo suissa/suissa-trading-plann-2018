@@ -58,6 +58,7 @@ IOTA (MIOTA) $4.09 USD (-11.61%)<br>
 Waves (WAVES) $13.92 USD (-6.82%)<br>
 Bitcoin (BTC) $16,548.10 USD (-5.68%)  <br>
 Stellar Lumens (XLM) $0.150421 USD (-4.28%) <br>
+Litecoin (LTC) $306.31 USD (-4.06%) 
 <br>
 <hr>
 <br>
