@@ -51,24 +51,30 @@ Bitcoin (BTC) $17,535.80 USD (2.85%) <br>
 <br>
 <br>
 
-## 13 de Novembro de 2017
 
-### Jantar (21:05)
+## 14 de Novembro de 2017
 
-IOTA (MIOTA) $4.09 USD (-11.61%)<br> 
-Waves (WAVES) $13.92 USD (-6.82%)<br>
-Bitcoin (BTC) $16,548.10 USD (-5.68%)  <br>
-Stellar Lumens (XLM) $0.150421 USD (-4.28%) <br>
-Litecoin (LTC) $306.31 USD (-4.06%) 
+### Café da manhã (10:35)
 
 <hr>
 
-**Decentraland (MANA) $0.122595 USD (41.86%)**
+***Bitcoin (BTC) $16,832.80 USD (-1.76%)***
 
 <hr>
-NEO (NEO) $44.74 USD (11.26%)<br>
-Ethereum (ETH) $693.00 USD (10.41%)<br>
-Decred (DCR) $71.87 USD (8.84%)<br>
-Cardano (ADA) $0.136689 USD (2.62%)<br>
 
+**Decentraland (MANA) 0.00000767 BTC (19.21%)**
+
+<hr>
+IOTA (MIOTA) 0.04271620 BTC (7.74%)<br> 
+Ethereum (ETH) 0.04254300 BTC (7.25%)<br>
+NEO (NEO) 0.00290972 BTC (6.75%)<br>
+Cardano (ADA) 0.00000855 BTC (11.01%)(2.62%)
+Decred (DCR) 0.00425012 BTC (0.53%)
+
+<hr>
+
+
+Waves (WAVES) 0.00080512 BTC (-5.04%)<br>
+Stellar Lumens (XLM) 0.00000902 BTC (-1.50%)<br>
+Litecoin (LTC) 0.01779010 BTC (-5.15%) 
 <hr>
