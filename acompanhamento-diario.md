@@ -50,6 +50,7 @@ Bitcoin (BTC) $17,535.80 USD (2.85%) <br>
 
 <br>
 <br>
+
 ## 14 de Novembro de 2017
 
 ### Café da manhã (10:35)
