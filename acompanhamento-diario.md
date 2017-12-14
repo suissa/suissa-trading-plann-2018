@@ -57,7 +57,6 @@ Bitcoin (BTC) $17,535.80 USD (2.85%) <br>
 
 ### Café da manhã (10:35)
 
-<hr>
 
 - ***Bitcoin (BTC) $16,832.80 USD (-1.76%)*** 
 
@@ -71,13 +70,14 @@ Bitcoin (BTC) $17,535.80 USD (2.85%) <br>
 - IOTA (MIOTA) 0.04271620 BTC (7.74%)
 - Ethereum (ETH) 0.04254300 BTC (7.25%)
 - NEO (NEO) 0.00290972 BTC (6.75%)
-- Cardano (ADA) 0.00000855 BTC (11.01%)(2.62%)
+- Cardano (ADA) 0.00000855 BTC (11.01%)
 - Decred (DCR) 0.00425012 BTC (0.53%)
 
 <hr>
 
+- Litecoin (LTC) 0.01779010 BTC (-5.15%) 
 - Waves (WAVES) 0.00080512 BTC (-5.04%)
 - Stellar Lumens (XLM) 0.00000902 BTC (-1.50%)
-- Litecoin (LTC) 0.01779010 BTC (-5.15%) 
 
 <hr>
+
