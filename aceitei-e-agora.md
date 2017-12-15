@@ -11,6 +11,7 @@ O plano para nosso primeiro mês será:
 *ps: essas porcentagens podem mudar a qualquer momento!!!!*
 
 <br>
+
 #### Entenda que aquela % é referente em cima de cada um deses items
 
 <br>
