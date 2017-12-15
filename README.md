@@ -109,8 +109,8 @@ relatório diário/semanal/mensal mostrando visualmente onde você ganhou ou per
 
 # Contato diário
 
-Criei um chat **FECHADO** no Telegram e Facebook comos participantes para eu sempre ter<br>
-um contato direto e podermos operar com maior rapidez.
+Criei um chat **FECHADO** no [Telegram](https://t.me/joinchat/BJ_gtxIDhUoAOiZ8rMf2gQ) e no [Facebook](https://www.facebook.com/groups/2023064917971607/) e preciso<br>
+que você entre em algum para que eu possa ter um contato direto e podermos operar com maior rapidez.
 
 # Prazo
 
