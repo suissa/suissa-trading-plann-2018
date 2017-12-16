@@ -3,21 +3,17 @@
 Vou colocando aqui o acompnhamento diário das cotações até meu app estiver pronto para usarmos.
 
 
-## Hodl
+## Hodl - Bittrex
 
 - Cardano (**ADA**): 0.00000757 BTC
-- Decred (**DCR**):
 - Stellar Lumens (**XLM**): 0.00000821 BTC
 - Decentraland (**MANA**): 0.00000555 BTC
-- Litecoin (**LTC**): 0.01849973 BTC
-- Ethereum (**ETH**):
 - NEO (**NEO**): 0.00250051 BTC
 - Waves (**WAVES**): 0.00058005 BTC
 
 Porém são valores em BTC que precisam ser referenciados ao dia da sua compra.
 
 12/10/2017 05:04:24 AM	BTC-ADA	0.00000757
-12/12/2017 02:32:45 PM	BTC-LTC	0.01849973
 12/10/2017 05:33:25 PM	BTC-MANA	0.00000555
 12/09/2017 11:01:20 AM	BTC-NEO	0.00250051
 12/09/2017 10:55:50 AM	BTC-WAVES	0.00058005
@@ -30,14 +26,25 @@ Porém são valores em BTC que precisam ser referenciados ao dia da sua compra.
 Vamos ver qual é o valor unitário de cada moeda no dia da compra:
 
 - ADA:	$0.119
-- LTC:	$319.10
 - MANA: $0.087
 - NEO:	$38.17
 - WAVES:	$8.85
 - XLM:	$0.129
 
 
-Os valores abaixo vêm do site: [coinmarketcap.com](https://coinmarketcap.com/) .
+# Atualizações diárias
+
+Acompanhe o valor das moedas acima diariamente:
+
+
+- ADA:	$0.269
+- MANA: $0.101
+- NEO:	$47.16
+- WAVES:	$8.85
+- XLM:	$0.761
+
+
+Os valores das atualizações abaixo vêm do site: [coinmarketcap.com](https://coinmarketcap.com/) .
 
 
 <hr>
