@@ -13,11 +13,13 @@ Vou colocando aqui o acompnhamento diário das cotações até meu app estiver p
 
 Porém são valores em BTC que precisam ser referenciados ao dia da sua compra.
 
-12/10/2017 05:04:24 AM	BTC-ADA	0.00000757
-12/10/2017 05:33:25 PM	BTC-MANA	0.00000555
-12/09/2017 11:01:20 AM	BTC-NEO	0.00250051
-12/09/2017 10:55:50 AM	BTC-WAVES	0.00058005
-12/10/2017 05:17:25 AM	BTC-XLM	0.00000821
+- 12/10/2017 05:04:24 AM	BTC-ADA	0.00000757
+- 12/10/2017 05:33:25 PM	BTC-MANA	0.00000555
+- 12/09/2017 11:01:20 AM	BTC-NEO	0.00250051
+- 12/09/2017 10:55:50 AM	BTC-WAVES	0.00058005
+- 12/10/2017 05:17:25 AM	BTC-XLM	0.00000821
+
+Esses são os valores do BTC no dia segundo o site [coingecko](https://www.coingecko.com/en/price_charts/bitcoin/usd#panel):
 
 - 12/09/2017: $15,266
 - 12/10/2017: $15,808
@@ -35,7 +37,6 @@ Vamos ver qual é o valor unitário de cada moeda no dia da compra:
 # Atualizações diárias
 
 Acompanhe o valor das moedas acima diariamente:
-
 
 - ADA:	$0.269 > 100%
 - MANA: $0.101 > 15%
