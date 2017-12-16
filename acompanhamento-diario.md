@@ -37,11 +37,11 @@ Vamos ver qual é o valor unitário de cada moeda no dia da compra:
 Acompanhe o valor das moedas acima diariamente:
 
 
-- ADA:	$0.269
-- MANA: $0.101
-- NEO:	$47.16
-- WAVES:	$8.85
-- XLM:	$0.761
+- ADA:	$0.269 > 100%
+- MANA: $0.101 > 15%
+- NEO:	$47.16 > 25%
+- WAVES:	$13.22 > 50%
+- XLM:	$0.761 > 490%
 
 
 Os valores das atualizações abaixo vêm do site: [coinmarketcap.com](https://coinmarketcap.com/) .
