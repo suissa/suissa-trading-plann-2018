@@ -123,11 +123,12 @@ Bitcoin (BTC) $17,535.80 USD (2.85%) <br>
 
 <hr>
 
-- **Cardano (ADA) 0.00001440 BTC (17.83%)**
+- Cardano (**ADA**) 0.00001440 BTC (17.83%)
 - Decred (**DCR**) 0.00408571 BTC (5.01%)
 - Stellar Lumens (**XLM**) 0.00001103 BTC (2.82%)
 
 <hr>
+
 - Decentraland (**MANA**) 0.00000565 BTC (-10.65%) 
 - IOTA (**MIOTA**) 0.00019761 BTC (-9.37%)
 - Ripple (**XRP**) 0.00004131 BTC (-7.59%)
