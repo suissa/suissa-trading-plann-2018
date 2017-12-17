@@ -162,7 +162,7 @@ Bitcoin (BTC) $17,535.80 USD (2.85%) <br>
 
 <hr>
 
-- ***Bitcoin (BTC) $18,723.90 USD (4.92%) *** 
+- ***Bitcoin (BTC) $18,723.90 USD (4.92%)*** 
 
 <hr>
 
@@ -179,5 +179,31 @@ Bitcoin (BTC) $17,535.80 USD (2.85%) <br>
 - Litecoin (**LTC**) 0.01606400 BTC (-4.85%)
 - Ethereum (**ETH**) 0.03699250 BTC (-3.89%)
 - NEO (**NEO**) 0.00255771 BTC (-1.35%)
+
+<hr>
+
+<br>
+<br>
+
+## 17 de Novembro de 2017
+
+### Almoço (13:00)
+
+<hr>
+
+- ***Bitcoin (BTC) $19,650.60 USD (5.14%)*** 
+
+<hr>
+
+- Cardano (**ADA**) 0.00002553 BTC (78.05%)
+- Stellar Lumens (**XLM**) 0.00001315 BTC (20.67%)
+- NEO (**NEO**) 0.00299199 BTC (16.98%)
+- Decred (**DCR**) 0.00443894 BTC (8.42%)
+
+<hr>
+
+- Decentraland (**MANA**) 0.00000532 BTC (-5.25%)
+- Waves (**WAVES**) 0.00067654 BTC (-4.99%)
+- IOTA (**MIOTA**) 0.00018801 BTC (-4.27%)
 
 <hr>
