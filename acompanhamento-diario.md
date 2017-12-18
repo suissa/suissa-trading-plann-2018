@@ -207,3 +207,29 @@ Bitcoin (BTC) $17,535.80 USD (2.85%) <br>
 - IOTA (**MIOTA**) 0.00018801 BTC (-4.27%)
 
 <hr>
+
+<br>
+<br>
+
+## 18 de Novembro de 2017
+
+### Café da tarde (15:30)
+
+<hr>
+
+- ***Bitcoin (BTC) $18,773.90 USD (-3.03%)*** 
+
+<hr>
+
+- NEO (**NEO**) 0.00396785 BTC (18.44%)
+- IOTA (**MIOTA**) 0.00021826 BTC (17.40%)
+- Waves (**WAVES**) 0.00081447 BTC (16.59%)
+- Stellar Lumens (**XLM**) 0.00001413 BTC (1.90%)
+- Decred (**DCR**) 0.00472386 BTC (0.74%)
+
+<hr>
+
+- Cardano (**ADA**) 0.00002554 BTC (-3.10%)
+- Decentraland (**MANA**) 0.00000560 BTC (-0.39%)
+
+<hr>
