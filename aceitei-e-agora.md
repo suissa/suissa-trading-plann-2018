@@ -4,9 +4,8 @@
 
 O plano para nosso primeiro mês será:
 
-- 60%: BTC - qualquer uma
-- 10%: IOTA - Binance
-- 30%: Swing Trade - Bittrex
+- 50%: BTC - qualquer uma
+- 50%: Swing Trade - Bittrex / Binance
 
 *ps: essas porcentagens podem mudar a qualquer momento!!!!*
 
@@ -35,10 +34,9 @@ Depois de comprado TUDO em BTC voc começará a por nosso plano em ação.
 
 Crie uma conta na [bittrex](https://www.bittrex.com/) e na [binance](https://www.binance.com/).
 
-Mande 30% do que você tem de BTC para a Binance e compre IOTA quando o valor estiver abaixo dos 4.2<br>
-o preferível seria entre $3.7 e $3.5.
+Compre IOTA apenas se for abaixo de $3.3
 
-**Nosso objetivo é que a IOTA bata $10 (+ de 100%) antes do dia 15 de Janeiro de 2018!**
+**Nosso objetivo é que a IOTA bata $7 (+ de 100%) antes do dia 15 de Janeiro de 2018!**
 
 
 ## Passo 3 - Swing Trade
