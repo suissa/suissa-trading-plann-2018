@@ -1,6 +1,6 @@
 # Acompanhamento diário das cotações
 
-Vou colocando aqui o acompnhamento diário das cotações até meu app estiver pronto para usarmos.
+Vou colocando aqui o acompanhamento diário das cotações que tenho em HOLD, até meu app estiver pronto para usarmos.
 
 
 ## Hodl - Bittrex
