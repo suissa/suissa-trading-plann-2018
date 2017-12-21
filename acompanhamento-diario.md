@@ -247,14 +247,14 @@ Bitcoin (BTC) $17,535.80 USD (2.85%) <br>
 
 <hr>
 
+- Lisk (**LSK**) 0.00153711 BTC (37.58%)
 - Basic Attention Token (**BAT**) 0.00002465 BTC (23.86%)
 - Decred (**DCR**) 0.00649088 BTC (18.90%)
 - Monaco (**MCO**) 0.00112805 BTC (16.15%) 
 - NEO (**NEO**) 0.00461250 BTC (13.87%)
 - Decentraland (**MANA**) 0.00000704 BTC (13.71%)
 - Stellar Lumens (**XLM**) 0.00001580 BTC (12.37%)
-- IOTA (**MIOTA**) 0.00032665 BTC (6.36%)
 - Waves (**WAVES**) 0.00098665 BTC (10.00%)
+- IOTA (**MIOTA**) 0.00032665 BTC (6.36%)
 - Cardano (**ADA**) 0.00002937 BTC (3.26%)
-
 <hr>
