@@ -50,7 +50,7 @@ Os valores das atualizações abaixo vêm do site: [coinmarketcap.com](https://c
 
 <hr>
 
-## 12 de Novembro de 2017
+## 12 de Dezembro de 2017
 
 
 ### Almoço (13:00 - 14:00)
@@ -94,7 +94,7 @@ Bitcoin (BTC) $17,535.80 USD (2.85%) <br>
 <br>
 <br>
 
-## 14 de Novembro de 2017
+## 14 de Dezembro de 2017
 
 ### Café da manhã (10:35)
 
@@ -126,7 +126,7 @@ Bitcoin (BTC) $17,535.80 USD (2.85%) <br>
 <br>
 <br>
 
-## 15 de Novembro de 2017
+## 15 de Dezembro de 2017
 
 ### Café da tarde (19:00)
 
@@ -156,7 +156,7 @@ Bitcoin (BTC) $17,535.80 USD (2.85%) <br>
 <br>
 <br>
 
-## 16 de Novembro de 2017
+## 16 de Dezembro de 2017
 
 ### Almoço (13:05)
 
@@ -185,7 +185,7 @@ Bitcoin (BTC) $17,535.80 USD (2.85%) <br>
 <br>
 <br>
 
-## 17 de Novembro de 2017
+## 17 de Dezembro de 2017
 
 ### Almoço (13:00)
 
@@ -211,7 +211,7 @@ Bitcoin (BTC) $17,535.80 USD (2.85%) <br>
 <br>
 <br>
 
-## 18 de Novembro de 2017
+## 18 de Dezembro de 2017
 
 ### Café da tarde (15:30)
 
@@ -237,7 +237,7 @@ Bitcoin (BTC) $17,535.80 USD (2.85%) <br>
 <br>
 <br>
 
-## 21 de Novembro de 2017
+## 21 de Dezembro de 2017
 
 ### Almoço (11:20)
 
