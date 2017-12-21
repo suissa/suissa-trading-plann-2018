@@ -243,7 +243,7 @@ Bitcoin (BTC) $17,535.80 USD (2.85%) <br>
 
 <hr>
 
-- ***Bitcoin (BTC) $16,861.00 USD (-4.24%) *** 
+- ***Bitcoin (BTC) $16,861.00 USD (-4.24%)*** 
 
 <hr>
 
